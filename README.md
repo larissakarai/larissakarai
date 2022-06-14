@@ -1,0 +1,4 @@
+- ola meu nome é Larissa
+-meu email da conte é larissa.rosalsi.silveira@escola.pr.gov.br
+- eu estou interessada aprender a programar novas linguagens
+-eu estou aprendendo a programar recentemente a linguagem de scrath
